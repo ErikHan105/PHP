@@ -1,0 +1,6 @@
+[29-May-2019 03:25:45 America/New_York] PHP Notice:  Undefined variable: url_script in /home/alloyyrr/piecesoccasioncamping-car.com/admin/class.update.php on line 61
+[29-May-2019 03:25:45 America/New_York] PHP Warning:  file_get_contents(/update.php): failed to open stream: No such file or directory in /home/alloyyrr/piecesoccasioncamping-car.com/admin/class.update.php on line 61
+[30-May-2019 15:22:50 America/New_York] PHP Notice:  Undefined variable: url_script in /home/alloyyrr/piecesoccasioncamping-car.com/admin/class.update.php on line 61
+[30-May-2019 15:22:50 America/New_York] PHP Warning:  file_get_contents(/update.php): failed to open stream: No such file or directory in /home/alloyyrr/piecesoccasioncamping-car.com/admin/class.update.php on line 61
+[30-May-2019 15:23:20 America/New_York] PHP Notice:  Undefined variable: url_script in /home/alloyyrr/piecesoccasioncamping-car.com/admin/class.update.php on line 61
+[30-May-2019 15:23:20 America/New_York] PHP Warning:  file_get_contents(/update.php): failed to open stream: No such file or directory in /home/alloyyrr/piecesoccasioncamping-car.com/admin/class.update.php on line 61
